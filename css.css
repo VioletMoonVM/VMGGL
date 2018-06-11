@@ -32,3 +32,6 @@ p{
     border-left: 2px solid #ccc;
     font-style: italic;
 }
+.first{
+    padding-bottom: 2px;
+}
